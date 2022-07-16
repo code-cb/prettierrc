@@ -1,0 +1,14 @@
+{
+  "name": "@codecb/prettierrc",
+  "version": "0.0.1",
+  "description": "Prettier configuration for @codecb source code",
+  "main": "index.js",
+  "author": "ICodeMyOwnLife <icodemyownlife@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/prettier": "^2.6.0"
+  },
+  "peerDependencies": {
+    "prettier": "^2.7.0"
+  }
+}
