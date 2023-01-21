@@ -2,7 +2,27 @@
 # yarn lockfile v1
 
 
-"@types/prettier@^2.6.0":
-  version "2.6.3"
-  resolved "https://registry.npmjs.org/@types/prettier/-/prettier-2.6.3.tgz#68ada76827b0010d0db071f739314fa429943d0a"
-  integrity sha512-ymZk3LEC/fsut+/Q5qejp6R9O1rMxz3XaRHDV6kX8MrGAhOSPqVARbDi+EZvInBpw+BnCX3TD240byVkOfQsHg==
+"@codecb/prettierrc@0.0.1":
+  version "0.0.1"
+  resolved "https://registry.npmjs.org/@codecb/prettierrc/-/prettierrc-0.0.1.tgz#11cf15436b9a2ce36b632a39b877df85c2fa4364"
+  integrity sha512-yWsYW1SJEJ49i2E8R10R6a73jvFc5FfuwzNR6PQnCgKrs3fa3lf8fEhsSNaTefw+jTWPLOU4EjBJAgQ24c/mmA==
+
+"@codecb/tsconfigs@0.0.10":
+  version "0.0.10"
+  resolved "https://registry.npmjs.org/@codecb/tsconfigs/-/tsconfigs-0.0.10.tgz#cc1f0330bca8b0c250236a706acd7f9deb9b838f"
+  integrity sha512-YKOQsMFhyW0HF6K58QsKa0VVbMeI+O4rxDdr4tIZc9JzEFlF0LiIIJ95ny9X05ggxvzvYHSq0AF/e7TQHB5zxQ==
+
+"@types/prettier@^2.7":
+  version "2.7.2"
+  resolved "https://registry.npmjs.org/@types/prettier/-/prettier-2.7.2.tgz#6c2324641cc4ba050a8c710b2b251b377581fbf0"
+  integrity sha512-KufADq8uQqo1pYKVIYzfKbJfBAc0sOeXqGbFaSpv8MRmC/zXgowNZmFcbngndGk922QDmOASEXUZCaY48gs4cg==
+
+prettier@^2.8:
+  version "2.8.3"
+  resolved "https://registry.npmjs.org/prettier/-/prettier-2.8.3.tgz#ab697b1d3dd46fb4626fbe2f543afe0cc98d8632"
+  integrity sha512-tJ/oJ4amDihPoufT5sM0Z1SKEuKay8LfVAMlbbhnnkvt6BUserZylqo2PN+p9KeljLr0OHa2rXHU1T8reeoTrw==
+
+typescript@^4.9:
+  version "4.9.4"
+  resolved "https://registry.npmjs.org/typescript/-/typescript-4.9.4.tgz#a2a3d2756c079abda241d75f149df9d561091e78"
+  integrity sha512-Uz+dTXYzxXXbsFpM86Wh3dKCxrQqUcVMxwU54orwlJjOpO3ao8L7j5lH+dWfTwgCwIuM9GQ2kvVotzYJMXTBZg==
