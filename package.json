@@ -1,6 +1,6 @@
 {
   "name": "@codecb/prettierrc",
-  "version": "0.0.2",
+  "version": "0.0.8",
   "description": "Prettier configuration for @codecb source code",
   "author": "ICodeMyOwnLife <icodemyownlife@gmail.com>",
   "license": "MIT",
@@ -17,6 +17,7 @@
   "devDependencies": {
     "@codecb/prettierrc": "0.0.1",
     "@codecb/tsconfigs": "0.0.10",
+    "@types/node": "^18.11",
     "@types/prettier": "^2.7",
     "prettier": "^2.8",
     "typescript": "^4.9"
